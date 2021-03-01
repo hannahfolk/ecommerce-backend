@@ -19,12 +19,17 @@ This application is just the backend for an ecommerce company. It focuses on tes
 
 ## Table of Contents
 
+- [About the Project](#about-the-project)
 - [Built With](#built-with)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Contact](#contact)
 - [License](#license)
+
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]]()
 
 ### Built With
 
@@ -106,3 +111,4 @@ This project uses the [MIT][license-url] license.
 [license-url]: https://github.com/hannahfolk/ecommerce-backend/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/hannahfolk
+[product-screenshot]: images/screenshot.png
