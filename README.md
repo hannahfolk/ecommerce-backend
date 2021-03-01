@@ -29,7 +29,9 @@ This application is just the backend for an ecommerce company. It focuses on tes
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]()
+Click on the image to go to a walkthrough video of the application.
+
+[![Product Name Screen Shot][product-screenshot]](https://www.youtube.com/watch?v=CqD3GE6Aqzk)
 
 ### Built With
 
